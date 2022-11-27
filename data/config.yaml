@@ -9,7 +9,7 @@ enableCallouts: false
 enableSPA: true
 enableFooter: false
 enableContextualBacklinks: true
-enableRecentNotes: true
+enableRecentNotes: false
 GitHubLink: https://github.com/paulamoskreiner/quartz/tree/hugo/content
 search:
   enableSemanticSearch: true
