@@ -58,6 +58,7 @@
   <script src="{{$popover.Permalink}}"></script>
 
   <!-- Optional scripts -->
+  <script async defer data-website-id="a249cc67-dd1d-4b9a-9fb7-32fab61d3906" src="https://serverstats.paulamoskreiner.de/umami.js"></script>
   {{ if $data.enableCodeBlockTitle | default $.Site.Data.config.enableCallouts }}
   {{ $codeTitle := resources.Get "js/code-title.js" | resources.Fingerprint "md5" | resources.Minify }}
   <script src="{{$codeTitle.Permalink}}"></script>
