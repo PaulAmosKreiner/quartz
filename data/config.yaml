@@ -7,10 +7,9 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: true
+enableFooter: false
 enableContextualBacklinks: true
 enableRecentNotes: true
-enableGitHubEdit: true
 GitHubLink: https://github.com/paulamoskreiner/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
