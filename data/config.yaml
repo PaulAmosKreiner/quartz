@@ -20,7 +20,11 @@ description:
 page_title:
   "Paul Amos Kreiner"
 links:
+  - link_name: Email
+    link: mailto:me@paulamoskreiner.de
   - link_name: Twitter
     link: https://twitter.com/paulamoskreiner
   - link_name: Github
     link: https://github.com/paulamoskreiner
+  - link_name: Impressum
+    link: _impressum
