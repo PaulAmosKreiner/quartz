@@ -1,27 +1,16 @@
 ---
-title: 🪴 Quartz 3.
+title: Paul Amos Kreiner
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+## Gebrauchshinweise
+- Im Zweifel ist hier alles ein [[Non-Paper]]. Sobald ich das Bedürfnis entwickle, Zitierfähiges zu veröffentlichen, werde ich mir überlegen, ob und wie beides voneinander getrennt werden sollte. Insbesondere deswegen: Bitte bei Fragen, Unklarheiten, Gegenargumenten, Anmerkungen einfach melden! Wir finden dann schon einen geeigneten Weg, uns auszutauschen.
+- Link-Hervorhebungen unterscheiden sich: Das ist ein normaler [externer Link](https://twitter.com/paulamoskreiner). So sieht ein Link zu einem [[abstrakte Arbeit|weiteren veröffentlichten Gedanken]] aus. Und so sieht ein "Link" zu einem [[unveröffentlichten Gedanken]] aus. Im Zweifel gerne nachfragen – was ist nicht ist, kann noch werden. Vieles davon ist einfach unzumutbar kryptisch. Aber bei entsprechender Nachfrage kann ich mich vielleicht kümmern.
+- Oben rechts gibt es einen Knopf zum Umschalten vom oder in den Dunkelmodus / Dark Mode.
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
-
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
-
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+## Einstiegspunkte
+- [[Menschwerdung]]
+- [[Kapitalismus]]
+- [[Imperialismus]]
+- [[Inefficient Planning Hypothesis]]
+- [[Zettelkasten]]
