@@ -12,9 +12,9 @@ enableContextualBacklinks: true
 enableRecentNotes: true
 GitHubLink: https://github.com/paulamoskreiner/quartz/tree/hugo/content
 search:
-  enableSemanticSearch: false
-  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+  enableSemanticSearch: true
+  operandApiKey: "itgb4ju2df5h7oj7eve0exncehfzg8yj7cdd"
+  operandIndexId: "rrizkual2os9"
 description:
   Homepage of Paul Amos Kreiner, currently work in progress.
 page_title:
