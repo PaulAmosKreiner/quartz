@@ -35,7 +35,7 @@ other = "Light Mode"
 other = "Dark Mode"
 
 [edit_source]
-other = "Quelldatei bearbeiten"
+other = "Änderung vorschlagen"
 
 [interactive_graph]
 other = "Interaktiver Graph"
