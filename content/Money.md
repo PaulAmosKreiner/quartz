@@ -7,6 +7,4 @@ title: Money
 - [[MMT]]
 - [[Geldtheorie GS]]
 - [[QTM]]
-- [[Inflation]] [^1]
-
-[^1]: Test
+- [[Inflation]]
