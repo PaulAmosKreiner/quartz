@@ -2,12 +2,12 @@ name: Paul Amos Kreiner
 enableToc: true
 openToc: false
 enableLinkPreview: true
-enableLatex: false
-enableCodeBlockTitle: false
-enableCodeBlockCopy: false
-enableCallouts: false
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
 enableSPA: true
-enableFooter: false
+enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
