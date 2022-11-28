@@ -2,7 +2,7 @@ baseURL = "https://paulamoskreiner.github.io/quartz/"
 languageCode = "de-de"
 defaultContentLanguage = 'de'
 relativeURLs = false
-disablePathToLower = true
+disablePathToLower = false
 ignoreFiles = [
     "/content/templates/*",
 ]
