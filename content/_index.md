@@ -3,7 +3,7 @@ title: Paul Amos Kreiner
 enableToc: false
 ---
 
-interested in big picture politics & economy, the future of mankind and artificial intelligence. currently improving shared mobility @ [cambio carsharing germany]([https://www.cambio-carsharing.de/cms/carsharing/en/1/cms?cms_knuuid=4136e3c4-0a83-41fa-8dbf-48d6fab58af8](https://www.cambio-carsharing.de/ueber-uns)) as a [data scientist / AI architect](https://www.linkedin.com/in/paulamoskreiner/). this site is about to become a blog of sorts, predominantly on political economy and in german.
+interested in big picture politics & economy, the future of mankind and artificial intelligence. currently improving shared mobility @ [cambio carsharing germany](https://www.cambio-carsharing.de/ueber-uns) as a [data scientist / AI architect](https://www.linkedin.com/in/paulamoskreiner/). this site is about to become a blog of sorts, predominantly on political economy and in german.
 
 ## Einstiegspunkte
 - [[Money|Geld]]
